@@ -1,0 +1,2 @@
+# docker build -t charlesboyo/ntopng .
+# docker run -d --net host --privileged=true --name ntopng charlesboyo/ntopng
